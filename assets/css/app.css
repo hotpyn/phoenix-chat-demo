@@ -1,0 +1,12 @@
+/* This file is for your main application css. */
+
+/* Chat App */
+
+#message-list {
+  border: 1px solid #777;
+  height: 400px;
+  margin-bottom: 50px;
+  padding: 10px;
+  overflow: scroll;
+}
+
